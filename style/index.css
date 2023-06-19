@@ -1,1 +1,42 @@
-nhkfjd
+.footer-main{
+    background-color: #000042;
+    color: #fff;
+    padding: 40px;
+}
+.f-middel{
+    display: flex;
+}
+.fm-text{
+    display: flex;
+}
+.fm-text2{
+    margin-left: 10px;
+}
+.fm-heading{
+    border-bottom:0.5px solid #fff;
+    width: fit-content;
+}
+.fm-heading h3{
+    margin-bottom: 10px;
+}
+.fm-text1 h2{
+    font-weight: 400;
+}
+.fm-text1 h5{
+    font-weight: 200;
+}
+.fm-text2{
+    padding-left: 80px;
+}
+.fm-text2 h2{
+    font-weight: 400;
+}
+.fm-text2 h5{
+    font-weight: 200;
+}
+.img-1 img {
+    width: 100px;
+}
+footer{
+    font-family: sans-serif;
+}
