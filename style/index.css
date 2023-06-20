@@ -9,10 +9,36 @@
 .fm-text{
     display: flex;
 }
+.f-text{
+    font-size: 14px;
+}
 .fm-text2{
     margin-left: 10px;
 }
 .fm-heading{
+    border-bottom:0.5px solid #fff;
+    width: fit-content;
+}
+.fm2-text1{
+    border-bottom:0.5px solid #fff;
+    width: fit-content;
+}
+.fm2-text2 h5{
+    text-align: center;
+    padding-right: 100px;
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 10px;
+}
+.fm2-text2 h6{
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-right: 90px;
+    font-size: 16px;
+    font-weight: 200;
+}
+.fm-heading3{
     border-bottom:0.5px solid #fff;
     width: fit-content;
 }
@@ -37,6 +63,19 @@
 .img-1 img {
     width: 100px;
 }
+.img-2 img{
+    width: 100px;
+    padding-left: 10px;
+}
+.fmiddle-3 p{
+    text-align: center;
+}
 footer{
     font-family: sans-serif;
+}
+.img-main {
+    display: flex;
+    justify-content: center;
+    padding-right: 54px;
+    margin: 50px;
 }
